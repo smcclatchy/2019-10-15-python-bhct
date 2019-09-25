@@ -2,7 +2,7 @@
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: ""    # what kind of Carpentry (must be either "lc" or "dc" or "swc").  
                       # Be sure to update the Carpentry type in _config.yml as well.  
-venue: "Plotting and Programming with Python"
+venue: "Plotting and Programming in Python"
 address: "The Jackson Laboratory, Breezeway Bioinformatics Training Room, 600 Main Street, Bar Harbor, Maine"
 country: "us"
 language: "en"
