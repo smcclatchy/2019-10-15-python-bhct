@@ -1,9 +1,8 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
-carpentry: ""    # what kind of Carpentry (must be either "lc" or "dc" or "swc").  
-                      # Be sure to update the Carpentry type in _config.yml as well.  
+carpentry: "" 
 venue: "Plotting and Programming in Python"
-address: "The Jackson Laboratory, Breezeway Bioinformatics Training Room, 600 Main Street, Bar Harbor, Maine"
+address: "The Jackson Laboratory, Breezeway Bioinformatics Training Room, 600 Main Street, Bar Harbor ME | The Jackson Laboratory for Genomic Medicine, Room 4320, 10 Discovery Drive, Farmington CT"
 country: "us"
 language: "en"
 latlng: "44.365489,-68.197077"
@@ -11,8 +10,8 @@ humandate: "Oct 16, 23, and 30, 2019"
 humantime: "1:00 pm - 4:30 pm"
 startdate: 2019-10-16
 enddate: 2019-10-30
-instructor: ["Sue McClatchy", "Luis Sordo Viera", "Susan Sheehan", "Bill Flynn"] 
-helper: ["Andrew Deighan"]
+instructor: ["Sue McClatchy", "Luis Sordo Viera", "Susan Sheehan", "Bill Flynn", "Daniel Danis"] 
+helper: ["Andrew Deighan", "Asli Uyar"]
 email: ["susan.mcclatchy@jax.org"]
 collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
 eventbrite: 73946521035
