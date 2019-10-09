@@ -10,7 +10,7 @@ humandate: "Oct 16, 23, and 30, 2019"
 humantime: "1:00 pm - 4:30 pm"
 startdate: 2019-10-16
 enddate: 2019-10-30
-instructor: ["Sue McClatchy", "Luis Sordo Viera", "Susan Sheehan", "Bill Flynn", "Daniel Danis", "Neil Kindlon"] 
+instructor: ["Sue McClatchy", "Luis Sordo Viera", "Susan Sheehan", "Bill Flynn", "Daniel Danis", "Neil Kindlon", "Olaitan Awe"] 
 helper: ["Andrew Deighan", "Asli Uyar"]
 email: ["susan.mcclatchy@jax.org"]
 collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
