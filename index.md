@@ -13,7 +13,7 @@ enddate: 2019-10-30
 instructor: ["Sue McClatchy", "Luis Sordo Viera", "Susan Sheehan", "Bill Flynn", "Daniel Danis", "Neil Kindlon", "Olaitan Awe"] 
 helper: ["Andrew Deighan", "Asli Uyar", "Sirohi Kumar"]
 email: ["susan.mcclatchy@jax.org"]
-collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
+collaborative_notes: https://pad.carpentries.org/2019-10-16-python-bhct
 eventbrite: 73946521035
 ---
 
